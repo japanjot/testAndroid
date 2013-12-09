@@ -15,7 +15,7 @@
  */
 
 package com.google.zxing.client.android.wifi;
-
+// testing japanjot singh suri
 enum NetworkType {
 
   WEP,
